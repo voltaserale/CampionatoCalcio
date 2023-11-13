@@ -1,7 +1,7 @@
 package it.edu.iisvolta;
 
 import java.util.ArrayList;
-
+//modifica
 public class Campionato {
 	private String nome;
 	private ArrayList<Squadra> elencoSquadre;
